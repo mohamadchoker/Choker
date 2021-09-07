@@ -1,8 +1,7 @@
 <p align="center">
-
 	<a href="#">
 		<img alt="Chokers's Banner"
-			 src="https://github.com/mohamadchoker/Choker/blob/master/static/images/1629190135634.jpeg">
+			 src="https://github.com/mohamadchoker/mohamadchoker/blob/master/static/images/1629190135634.jpeg">
 	</a>
 </p>
 
