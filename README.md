@@ -8,7 +8,7 @@
 <p align="center">
 	<a href="">
 		<img alt="Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Choker's+GitHub+page+:)&center=true&width=450&height=55">
+			 src="https://readme-typing-svg.herokuapp.com/?color=58A749&lines=Welcome+to+Choker's+GitHub+page+:)&center=true&width=450&height=55">
 	</a>
 </p>
 
